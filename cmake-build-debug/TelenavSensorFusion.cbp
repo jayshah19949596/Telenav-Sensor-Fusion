@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="TelenavSensorFusion"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/jaysh/CLionProjects/TelenavSensorFusion/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/jaysh/CLionProjects/TelenavSensorFusion/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/msys64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/jaysh/CLionProjects/TelenavSensorFusion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/jaysh/CLionProjects/TelenavSensorFusion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/jaysh/CLionProjects/TelenavSensorFusion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/jaysh/CLionProjects/TelenavSensorFusion/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/jaysh/CLionProjects/TelenavSensorFusion/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/msys64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/jaysh/CLionProjects/TelenavSensorFusion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/jaysh/CLionProjects/TelenavSensorFusion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/jaysh/CLionProjects/TelenavSensorFusion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TelenavSensorFusion">
+				<Option output="C:/Users/jaysh/CLionProjects/TelenavSensorFusion/cmake-build-debug/TelenavSensorFusion.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jaysh/CLionProjects/TelenavSensorFusion/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/msys64/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.4.0/include"/>
+					<Add directory="C:/msys64/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.4.0/../../../../include"/>
+					<Add directory="C:/msys64/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.4.0/include-fixed"/>
+					<Add directory="C:/msys64/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.4.0/../../../../i686-w64-mingw32/include"/>
+					<Add directory="C:/msys64/mingw32/lib/gcc/../../include/c++/5.4.0"/>
+					<Add directory="C:/msys64/mingw32/lib/gcc/../../include/c++/5.4.0/i686-w64-mingw32"/>
+					<Add directory="C:/msys64/mingw32/lib/gcc/../../include/c++/5.4.0/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/jaysh/CLionProjects/TelenavSensorFusion/cmake-build-debug/Makefile&quot;  VERBOSE=1 TelenavSensorFusion"/>
+					<CompileFile command="C:/msys64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/jaysh/CLionProjects/TelenavSensorFusion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/jaysh/CLionProjects/TelenavSensorFusion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/jaysh/CLionProjects/TelenavSensorFusion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TelenavSensorFusion/fast">
+				<Option output="C:/Users/jaysh/CLionProjects/TelenavSensorFusion/cmake-build-debug/TelenavSensorFusion.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jaysh/CLionProjects/TelenavSensorFusion/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/msys64/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.4.0/include"/>
+					<Add directory="C:/msys64/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.4.0/../../../../include"/>
+					<Add directory="C:/msys64/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.4.0/include-fixed"/>
+					<Add directory="C:/msys64/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.4.0/../../../../i686-w64-mingw32/include"/>
+					<Add directory="C:/msys64/mingw32/lib/gcc/../../include/c++/5.4.0"/>
+					<Add directory="C:/msys64/mingw32/lib/gcc/../../include/c++/5.4.0/i686-w64-mingw32"/>
+					<Add directory="C:/msys64/mingw32/lib/gcc/../../include/c++/5.4.0/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/jaysh/CLionProjects/TelenavSensorFusion/cmake-build-debug/Makefile&quot;  VERBOSE=1 TelenavSensorFusion/fast"/>
+					<CompileFile command="C:/msys64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/jaysh/CLionProjects/TelenavSensorFusion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/jaysh/CLionProjects/TelenavSensorFusion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/jaysh/CLionProjects/TelenavSensorFusion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/jaysh/CLionProjects/TelenavSensorFusion/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/jaysh/CLionProjects/TelenavSensorFusion/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/msys64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/jaysh/CLionProjects/TelenavSensorFusion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/jaysh/CLionProjects/TelenavSensorFusion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/jaysh/CLionProjects/TelenavSensorFusion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/jaysh/CLionProjects/TelenavSensorFusion/Iteration.cpp">
+			<Option target="TelenavSensorFusion"/>
+		</Unit>
+		<Unit filename="C:/Users/jaysh/CLionProjects/TelenavSensorFusion/Iteration.h">
+			<Option target="TelenavSensorFusion"/>
+		</Unit>
+		<Unit filename="C:/Users/jaysh/CLionProjects/TelenavSensorFusion/kalman_filter.cpp">
+			<Option target="TelenavSensorFusion"/>
+		</Unit>
+		<Unit filename="C:/Users/jaysh/CLionProjects/TelenavSensorFusion/kalman_filter.h">
+			<Option target="TelenavSensorFusion"/>
+		</Unit>
+		<Unit filename="C:/Users/jaysh/CLionProjects/TelenavSensorFusion/main.cpp">
+			<Option target="TelenavSensorFusion"/>
+		</Unit>
+		<Unit filename="C:/Users/jaysh/CLionProjects/TelenavSensorFusion/measurement_package.h">
+			<Option target="TelenavSensorFusion"/>
+		</Unit>
+		<Unit filename="C:/Users/jaysh/CLionProjects/TelenavSensorFusion/particle_filter.cpp">
+			<Option target="TelenavSensorFusion"/>
+		</Unit>
+		<Unit filename="C:/Users/jaysh/CLionProjects/TelenavSensorFusion/particle_filter.h">
+			<Option target="TelenavSensorFusion"/>
+		</Unit>
+		<Unit filename="C:/Users/jaysh/CLionProjects/TelenavSensorFusion/tools.cpp">
+			<Option target="TelenavSensorFusion"/>
+		</Unit>
+		<Unit filename="C:/Users/jaysh/CLionProjects/TelenavSensorFusion/tools.h">
+			<Option target="TelenavSensorFusion"/>
+		</Unit>
+		<Unit filename="C:/Users/jaysh/CLionProjects/TelenavSensorFusion/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
